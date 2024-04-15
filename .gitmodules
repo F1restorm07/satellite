@@ -1,18 +1,18 @@
 [submodule "callisto"]
 	path = callisto
-	url = git://github.com/F1restorm/callisto.git
+	url = git://github.com/F1restorm07/callisto.git
 [submodule "charon"]
 	path = charon
-	url = git://github.com/F1restorm/charon.git
+	url = git://github.com/F1restorm07/charon.git
 [submodule "europa"]
 	path = europa
-	url = git://github.com/F1restorm/europa.git
+	url = git://github.com/F1restorm07/europa.git
 [submodule "ganymede"]
 	path = ganymede
-	url = git://github.com/F1restorm/ganymede.git
+	url = git://github.com/F1restorm07/ganymede.git
 [submodule "iapetus"]
 	path = iapetus
-	url = git://github.com/F1restorm/iapetus.git
+	url = git://github.com/F1restorm07/iapetus.git
 [submodule "rhea"]
 	path = rhea
-	url = git://github.com/F1restorm/rhea.git
+	url = git://github.com/F1restorm07/rhea.git
