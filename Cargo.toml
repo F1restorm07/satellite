@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "castillo",
+    "charon",
+    "europa",
+    "ganymede",
+    "iapetus",
+    "rhea"
+]
+resolver = "2"
